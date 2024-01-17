@@ -2,7 +2,7 @@ cask "parallels_19_2" do
   version "19.2.0"
   sha256  "895ac8ed933fb58e59ba64e74078468b399d34327d23cb0ffc439515ca42438f"
 
-  url "https://github.com/XMLHexagram/homebrew-tap/releases/download/untagged-2062e247c0c249823d3d/ParallelsDesktop-19.2.0-54827.dmg"
+  url "https://github.com/XMLHexagram/homebrew-tap/releases/download/1.0/ParallelsDesktop-19.2.0-54827.dmg"
   name "Parallels Desktop"
   desc "Desktop virtualization software"
   homepage "https://github.com/XMLHexagram/homebrew-tap"

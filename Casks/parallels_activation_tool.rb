@@ -7,7 +7,7 @@ cask "parallels_activation_tool" do
   desc "parallels activation tool"
   homepage "https://github.com/XMLHexagram/homebrew-tap"
 
-  app "parallels_activation_tool.app"
+  app "Parallels Desktop Activation Tool.app"
   # binary "#{appdir}/pot.app/Contents/MacOS/pot"
 
   zap trash: [

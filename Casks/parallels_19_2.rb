@@ -7,9 +7,6 @@ cask "parallels_19_2" do
   desc "Desktop virtualization software"
   homepage "https://github.com/XMLHexagram/homebrew-tap"
 
-  app "pot.app"
-  binary "#{appdir}/pot.app/Contents/MacOS/pot"
-
   app "Parallels Desktop.app"
 
   preflight do
